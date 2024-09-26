@@ -58,7 +58,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="[https://linkedin.com/in/Antonio Barceló Berlanga](https://www.linkedin.com/in/antonio-barcel%C3%B3-berlanga-844781238/)" target="_blank">
+<a href="www.linkedin.com/in/antonio-barceló-berlanga-844781238" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
